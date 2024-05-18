@@ -52,4 +52,16 @@ Clone the repository to your local machine
 ![Dashboard](images/Dashboard.jpg)
 ![Property Listing](images/demo.jpg)
 
+## Usage
+
+- **Login/Register:** Start by logging in or registering a new account.
+- **Dashboard:** Use the dashboard to navigate through different sections of the application.
+- **Manage Properties:** Add, edit, delete, and view property details.
+- **Manage Clients:** Add, edit, delete, and view client information.
+- **Transactions:** Record and view property transactions.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
 
