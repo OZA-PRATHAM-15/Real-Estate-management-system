@@ -28,14 +28,28 @@ Clone the repository to your local machine
 
 ### Step 3: Copy Files to WampServer
 
--Copy the cloned repository folder into the www directory of WampServer. By default, this directory is located at C:\wamp64\www\.
+1. Copy the cloned repository folder into the `www` directory of WampServer. By default, this directory is located at `C:\wamp64\www\`.
 
 ### Step 4: Import the SQL Database
 
--Start WampServer and ensure that the server is running.
--Open your web browser and navigate to http://localhost/phpmyadmin.
--Log in to phpMyAdmin (the default username is root with no password).
--Create a new database for the project. For example, name it real_estate_db.
--Select the newly created database and click on the "Import" tab.
--Click on "Choose File" and select the SQL file located in the database folder of the cloned repository.
--Click "Go" to import the database.
+1. Start WampServer and ensure that the server is running.
+2. Open your web browser and navigate to `http://localhost/phpmyadmin`.
+3. Log in to phpMyAdmin (the default username is `root` with no password).
+4. Create a new database for the project. For example, name it `real_estate_db`.
+5. Select the newly created database and click on the "Import" tab.
+6. Click on "Choose File" and select the SQL file located in the `database` folder of the cloned repository.
+7. Click "Go" to import the database.
+
+### Step 5: Run the Project
+
+1. Open your web browser.
+2. Enter the following URL in the address bar: `http://localhost/real-estate-management`.
+3. Press Enter.
+4. You should see the login page of the Real Estate Management System.
+
+## Screenshots
+![Login Page](screenshots/login_page.png)
+![Dashboard](screenshots/dashboard.png)
+![Property Listing](screenshots/property_listing.png)
+
+
