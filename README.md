@@ -49,7 +49,7 @@ Clone the repository to your local machine
 
 ## Screenshots
 ![Login Page](images/login.jpg)
-![Dashboard](screenshots/dashboard.png)
-![Property Listing](screenshots/property_listing.png)
+![Dashboard](images/Dashboard.jpg)
+![Property Listing](images/demo.jpg)
 
 
