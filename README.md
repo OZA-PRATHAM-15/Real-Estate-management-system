@@ -48,7 +48,7 @@ Clone the repository to your local machine
 4. You should see the login page of the Real Estate Management System.
 
 ## Screenshots
-![Login Page](screenshots/login_page.png)
+![Login Page](images/login.jpg)
 ![Dashboard](screenshots/dashboard.png)
 ![Property Listing](screenshots/property_listing.png)
 
