@@ -26,11 +26,11 @@ This is a Real Estate Management System developed using PHP and MySQL. This syst
 
 Clone the repository to your local machine
 
-###Step 3: Copy Files to WampServer
+### Step 3: Copy Files to WampServer
 
 -Copy the cloned repository folder into the www directory of WampServer. By default, this directory is located at C:\wamp64\www\.
 
-###Step 4: Import the SQL Database
+### Step 4: Import the SQL Database
 
 -Start WampServer and ensure that the server is running.
 -Open your web browser and navigate to http://localhost/phpmyadmin.
